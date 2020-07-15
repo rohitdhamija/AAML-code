@@ -1,6 +1,6 @@
 Approaching (Almost) Any Machine Learning Problem
 
-Contains code provided in Approaching (Almost) Any Machine Learning Problem book by Abhiskek Thakur.
+Contains code provided in Approaching (Almost) Any Machine Learning Problem book by Abhishek Thakur.
 
 I have updated/modified code based on my learnings. 
 
